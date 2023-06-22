@@ -1,6 +1,6 @@
 package doctor_management_program;
 
-import Validation.Menu;
+import View.Menu;
 import Model.Doctor;
 import java.util.HashMap;
 import java.util.Map;

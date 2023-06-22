@@ -1,4 +1,5 @@
-package Validation;
+package View;
+import Validation.Validation;
 import java.util.ArrayList;
 import java.util.Arrays;
 
